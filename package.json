@@ -1,9 +1,10 @@
 {
   "name": "@sergueyarellano/meta-buffer",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "append a version and metadata to your buffers",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
+  "files": ["lib/**/*"],
   "scripts": {
     "build": "tsc",
     "test": "jest --config jestconfig.json",

@@ -4,7 +4,7 @@ meta-buffer
 Append version and meta info to your buffers.
 
 ```js
-const metaBuf = require('meta-buffer')
+const metaBuf = require('@sergueyarellano/meta-buffer')
 const VERSION = 1
 const AVRO_SCHEMA_NAME = 'UserCreatedSchemaName' 
 
