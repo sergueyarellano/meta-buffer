@@ -1,6 +1,6 @@
 {
-  "name": "meta-buffer",
-  "version": "1.0.0",
+  "name": "@sergueyarellano/meta-buffer",
+  "version": "1.0.1",
   "description": "append a version and metadata to your buffers",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
